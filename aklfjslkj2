@@ -1,0 +1,13 @@
+[1mdiff --git a/README.MD b/README.MD[m
+[1mindex b445d2d..9ea2b10 100644[m
+[1m--- a/README.MD[m
+[1m+++ b/README.MD[m
+[36m@@ -1,2 +1,5 @@[m
+ new project about superman life[m
+[31m-wea are going to find you job[m
+\ No newline at end of file[m
+[32m+[m[32mwea are going to find you job[m
+[32m+[m[32m<br>[m
+[32m+[m[32m<marquee>this is you style</marquee>[m
+[32m+[m[32mthis is new project about mu linfe[m
+\ No newline at end of file[m
